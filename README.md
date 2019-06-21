@@ -8,6 +8,8 @@ install http-server
 
 run
 
+`npm run-script build`
+
 `http-server -c-1`
 
 open url
